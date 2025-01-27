@@ -1,0 +1,118 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+div{
+    background-color: rgba(254 ,254, 226 ,0.75);
+    display: block;
+    width: 46.87em;  
+    height: 21.87em;
+    border-radius: 0.62em;
+    margin-top: 3.12em;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ua,.bl{
+    background-color: transparent;
+    display: block;
+    width: 750px;
+    height: 6.87em;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ua{
+    padding: 50px;
+ }
+.unpa,.b1{
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Courier New', Courier, monospace;
+font-size: 1em;
+text-transform: uppercase;
+}
+.unpa{
+    background-color: transparent;
+ width: 21.87em;
+ height: 1.87em;   
+    border: black solid 0.12em;
+ }
+.b1{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+text-transform: uppercase;
+font-size: 0.62em;
+ }
+ .bl{
+  padding: 0.01em 6.25em;
+  }
+ #un,#pass{
+  background-color: white;
+  }
+ #li01{
+  width: 5em;
+  height: 3.12em;
+  margin-right: 3.12em;
+    background-color: blue;
+    color: white;
+  }
+  #li01:hover{
+    border-radius: 50% 50%;
+    width: 6.25em;
+    height: 6.25em;
+    background-color: green;
+    font-size: 1.12em;
+    transition-delay: 0.5s;
+   }
+ #dl01{
+  width: 5em;
+height: 3.12em;
+    background-color: blue;
+    color: white;
+  }
+  #dl01:hover{
+    border-radius: 50% 50%;
+    width: 6.25em;
+    height: 6.25em;
+    background-color: red;
+    font-size: 1.12em;
+    transition-delay: 0.5s;
+   }
+ #pass{
+    margin-left: 100px;
+  #un,#pass{
+        width: 23.43em;
+    height: 6.87em;
+  }}
+    #un[placeholder="enter your user name"]{
+      text-transform: capitalize;
+      letter-spacing: 0.03em;
+      text-decoration: darkblue;
+     }
+     #pass[placeholder="enter your password"]{
+      text-transform: capitalize;
+      letter-spacing: 0.03em;
+      text-decoration: darkblue;
+     }
+     #user,#pw{
+      background-color: transparent;
+      width: fit-content;
+      height: fit-content;
+      margin-right: 12.5em;
+
+      }
+      #pw{
+        margin-top: 0.03em;
+        margin-left: 6.25em;
+       }
+#tp{  
+    color: white;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.87em;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.56em;
+    text-transform: uppercase;
+ }
